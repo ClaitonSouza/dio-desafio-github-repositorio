@@ -7,4 +7,4 @@ reoisitorio criado para o desafio de projeto sobre github
 
 [Gerenciador de pacotes MACOS](https://brew.sh/index_pt-br)
 
-[Comandos uteis do terminal MACOS](https://www.apptuts.net/tutorial/mac/comandos-uteis-terminal-do-mac/)
+[Atalhos uteis do terminal MACOS](https://support.apple.com/pt-br/guide/terminal/trmlshtcts/2.8/mac/10.13)
